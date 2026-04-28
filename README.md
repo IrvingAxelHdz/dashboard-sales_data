@@ -1,1 +1,3 @@
 # dashboard-sales_data
+[dashboard.pdf](https://github.com/user-attachments/files/27175503/dashboard.pdf)
+<img width="1504" height="838" alt="Captura de pantalla 2026-04-28 112613" src="https://github.com/user-attachments/assets/ba64166e-95b2-40de-8e92-19f033360898" />
