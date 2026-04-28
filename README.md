@@ -1,4 +1,3 @@
-# dashboard-sales_data
 # Sales Analysis Project
 
 ## Objective
